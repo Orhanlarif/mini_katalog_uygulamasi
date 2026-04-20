@@ -1,17 +1,16 @@
-# mini_katalog_uygulamasi
+## Mini Katalog Uygulaması
 
-A new Flutter project.
+## Kısa Açıklama
+Flutter eğitimi kapsamında geliştirilen, ürün listeleme ve detay görme özelliklerine sahip mobil katalog uygulaması.
 
-## Getting Started
+## Kullanılan Flutter Sürümü 
+Flutter 3.41.3
 
-This project is a starting point for a Flutter application.
+## Çalıştırma Adımları
+1. Bu depoyu klonlayın: `git clone <url>`
+2. Paketleri yükleyin: `flutter pub get`
+3. Uygulamayı çalıştırın: `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Ekran Görüntüleri 
+![Ana Sayfa](Screenshot_1776713706.png)
+![Detay Sayfası](Screenshot_1776713711.png)
